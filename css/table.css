@@ -1,0 +1,10 @@
+.table {
+    background-image: url(../image/FotoJet.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.table h1 {
+    color: #ffffff;
+}
